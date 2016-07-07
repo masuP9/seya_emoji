@@ -1,6 +1,8 @@
 # seya_emoji
 
-ご自由にお使いください
+[@oti](https://github.com/oti)さんの [slack-reaction-decomoji](https://github.com/oti/slack-reaction-decomoji) を参考に作成しました。
+
+ご自由にお使いください。
 
  - せやで (そうだよ) ![seyade](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyade.png)
  - せやかて (そうはいっても) ![seyakate](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyakate.png)
