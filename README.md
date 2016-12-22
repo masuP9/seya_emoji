@@ -4,6 +4,8 @@
 
 ご自由にお使いください。
 
+## 絵文字・標準語訳
+
  - せやで (そうだよ) ![seyade](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyade.png)
  - せやかて (そうはいっても) ![seyakate](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyakate.png)
  - せやけど (そうだけど) ![seyakedo](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyakedo.png)
@@ -15,3 +17,8 @@
  - せやろか (そうだろうか) ![seyaroka](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyaroka.png)
  - せや！ (そう！) ![seya](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seya.png)
  - せやった (そうだった) ![seyatta](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyatta.png)
+ - せやろな (そうだろうね) ![seyarona](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyarona.png)
+
+## 履歴
+
+- 2016-12-22 せやろな 追加
