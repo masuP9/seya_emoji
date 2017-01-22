@@ -6,20 +6,20 @@
 
 ## 絵文字・標準語訳
 
- - せやで (そうだよ) ![seyade](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyade.png)
- - せやかて (そうはいっても) ![seyakate](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyakate.png)
- - せやけど (そうだけど) ![seyakedo](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyakedo.png)
- - せやな (そうだね) ![seyana](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyana.png)
- - せやしな (だからな) ![seyashina](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyashina.png)
- - せやせや (そうそう) ![seyaseya](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyaseya.png)
- - せやろ (そうだろ) ![seyaro](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyaro.png)
- - せやねん (そうだよね) ![seyanen](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyanen.png)
- - せやろか (そうだろうか) ![seyaroka](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyaroka.png)
- - せや！ (そう！) ![seya](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seya.png)
- - せやった (そうだった) ![seyatta](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyatta.png)
- - せやろな (そうだろうね) ![seyarona](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyarona.png)
- - せやもん（そうだもん） ![seyamon](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyamon.png)
- - せやから（そうだから） ![seyakara](https://raw.githubusercontent.com/masuP9/seya_emoji/master/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%80%8C%E3%81%9B%E3%82%84%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-assets/seyakara.png)
+ - せやで (そうだよ) ![seyade](image/seyade.png)
+ - せやかて (そうはいっても) ![seyakate](image/seyakate.png)
+ - せやけど (そうだけど) ![seyakedo](image/seyakedo.png)
+ - せやな (そうだね) ![seyana](image/seyana.png)
+ - せやしな (だからな) ![seyashina](image/seyashina.png)
+ - せやせや (そうそう) ![seyaseya](image/seyaseya.png)
+ - せやろ (そうだろ) ![seyaro](image/seyaro.png)
+ - せやねん (そうだよね) ![seyanen](image/seyanen.png)
+ - せやろか (そうだろうか) ![seyaroka](image/seyaroka.png)
+ - せや！ (そう！) ![seya](image/seya.png)
+ - せやった (そうだった) ![seyatta](image/seyatta.png)
+ - せやろな (そうだろうね) ![seyarona](image/seyarona.png)
+ - せやもん（そうだもん） ![seyamon](image/seyamon.png)
+ - せやから（そうだから） ![seyakara](image/seyakara.png)
 
 ## 履歴
 
